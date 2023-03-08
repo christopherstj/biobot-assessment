@@ -141,8 +141,7 @@ const App = () => {
                             KITS Shipping Data
                         </Typography>
                         <Typography variant="body1">
-                            Enter Label ID's below to search for your shipping
-                            data
+                            Start typing a Label ID to search!
                         </Typography>
                     </Grid>
                     <Grid xs={12} sm={10} md={8} lg={6} xl={4}>
