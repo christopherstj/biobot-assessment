@@ -3,7 +3,7 @@ Take-home assessment for biobot interview
 
 # How To Run Locally
 
-Run the following on your local command line
+Run the following on your local command line  
 `git clone https://github.com/christopherstj/biobot-assessment.git`  
 `cd biobot-assessment/`  
 `npm i`  
